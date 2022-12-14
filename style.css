@@ -1,0 +1,22 @@
+#p1,#p2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+img{
+    height: 200px;
+    width: 200px;
+    /* border-bottom: 10px dashed red;
+    border-top: 10px groove black;
+    border-left: 10px dotted purple;
+    border-right: 10px solid green; */
+    border: 10px groove blue;
+    border-radius: 300px;
+}
+*{
+    
+   background-color: purple;
+   color: white;
+}
